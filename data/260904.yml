@@ -7,13 +7,13 @@ about:
   head: 9bb9a21
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-04T20:08:57Z
+  collectedAt: 2026-09-04T20:45:46Z
 timeline:
   created: 2025-04-14
   lastCommit: 2025-06-21
   lastRelease: 
 popularity:
-  star: 1330
+  star: 1331
   watcher: 17
   fork: 419
   release: 0
@@ -85,7 +85,7 @@ total:
   commit: 122
 ---
 path: /home/runner/.x-repo/github.com/gyoridavid/short-video-maker
-collectedAt: 2026-09-04T20:09:05Z
+collectedAt: 2026-09-04T20:45:57Z
 loc:
   Json:
     code: 12475
