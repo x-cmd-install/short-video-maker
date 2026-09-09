@@ -7,7 +7,7 @@ Creates short videos for TikTok, Instagram Reels, and YouTube Shorts using the M
 - **Latest release**: `` (n/a)
 - **Last commit**: 2025-06-21
 - **License**: MIT
-- **Stars**: 1335 · **Forks**: 422 · **Open issues**: 49 · **Contributors**: 4
+- **Stars**: 1337 · **Forks**: 423 · **Open issues**: 49 · **Contributors**: 4
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/short-video-maker> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T06:21:22Z._
+_Last regenerated: 2026-09-09T20:48:03Z._
